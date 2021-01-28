@@ -2,8 +2,8 @@
 
 Minnesota's 2020 death records shows that the COVID death totals reported by the Minnesota Department of Health are possibly inflated by nearly 30%. This repository is made availalbe in hopes that average citizens will examine the data for themselves, validate the queries, and make improvements or corrections as needed.
 
-![Daily Deaths](https://github.com/barneyhodge/mncovidtotals/blob/main/mn-2020-daily-deaths.png?raw=true)
-![Cumulative Deaths](https://github.com/barneyhodge/mncovidtotals/blob/main/mn-2020-cumulativate-deaths.png?raw=true)
+![Daily Deaths](https://github.com/barneyhodge/mncovidtotals/blob/main/charts//mn-2020-daily-deaths.png?raw=true)
+![Cumulative Deaths](https://github.com/barneyhodge/mncovidtotals/blob/main/charts/mn-2020-cumulativate-deaths.png?raw=true)
 
 # INTRODUCTION
 
